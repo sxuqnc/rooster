@@ -1,1 +1,2 @@
 # rooster
+hello, world!
